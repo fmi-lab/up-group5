@@ -1,11 +1,7 @@
-# Лабораторни упражнения по УП
+# Introduction to Programming Lab Exercises
 [ip_assistants_2015+cs_5g@fmi.uni-sofia.bg](mailto:ip_assistants_2015+cs_5g@fmi.uni-sofia.bg)
 
-## [Упражнение 0](exercises/exercise0)
+## [Exercise 0](exercises/exercise0)
 
-Въведение в средата за програмиране (Visual Studio) и изпълнение на няколко
-прости програми.
+Introduction to the Integrated Development Environment a.k.a. IDE (e.g. Visual Studio, Code Blocks); execution of several simple programs.
 
-##Материали
-
-- [Youtube course](https://www.youtube.com/watch?v=l8UeoizDLJw&list=PL71DAFD8C68FD9013&index=1)
