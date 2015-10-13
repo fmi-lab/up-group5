@@ -1,7 +1,7 @@
 Introduction to Programming
 ===========================
 
-ip\_assistants\_2015+cs\_5g@fmi.uni-sofia.bg
+    ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
 
 <ip_assistants_2015+cs_5g@fmi.uni-sofia.bg>
 
