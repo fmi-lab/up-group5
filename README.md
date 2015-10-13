@@ -1,7 +1,10 @@
 Introduction to Programming
 ===========================
 
-<ip_assistants_2015+cs_5g@fmi.uni-sofia.bg>
+Contacts
+--------
+
+-   <ip_assistants_2015+cs_5g@fmi.uni-sofia.bg>
 
 Lab Exercises
 -------------
