@@ -1,4 +1,4 @@
-## Exercises
+## Lab Exercises
 
 ### [Exercise 1](https://github.com/fmi-lab/up/blob/master/exercises/exercise1)
 

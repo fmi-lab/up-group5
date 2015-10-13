@@ -1,10 +1,10 @@
-Introduction to Programming Lab Exercises
-=========================================
+Introduction to Programming
+===========================
 
 <ip_assistants_2015+cs_5g@fmi.uni-sofia.bg>
 
-Exercises
----------
+Lab Exercises
+-------------
 
 ### [Exercise 1](https://github.com/fmi-lab/up/blob/master/exercises/exercise1)
 
