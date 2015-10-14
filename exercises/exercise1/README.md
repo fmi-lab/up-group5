@@ -25,6 +25,5 @@
 
 **Input:** sides of a triangle (a, b, c)
 
-**Output:** perimeter, area, h_a, h_b, h_c, l_a, l_b, l_c, m_a, m_b, m_c
-
+**Output:** perimeter, area, h<sub>a</sub>, h<sub>b</sub>, h<sub>c</sub>, l<sub>a</sub>, l<sub>b</sub>, l<sub>c</sub>, m<sub>a</sub> m<sub>b</sub>, m<sub>c</sub>
 
