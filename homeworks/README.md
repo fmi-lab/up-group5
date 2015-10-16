@@ -34,7 +34,7 @@ implementation using `for`.
 -   Archive all the problems to a **.zip** called:
 
     ```
-    <your_faculty_number>_<your_name>_hw<number_of_homework>.zip
+    hw<number_of_homework>_<your_faculty_number>_<your_name>.zip
     ```
 
 -   Attach the archive to an email with subject
@@ -64,7 +64,7 @@ problem5
 ```
 
 I'll archive them in a **.zip** and call the archive
-`81202_monika-eftimova_hw0.zip`
+`hw0_81202_monika-eftimova.zip`
 
 Then I'll attach the archive to a new email with subject:
 `[Homework0] 81202 Monika Eftimova` and send it to 
