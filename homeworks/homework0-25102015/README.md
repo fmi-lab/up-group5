@@ -1,3 +1,5 @@
+**Deadline:** ` 25.10.2015`
+
 ## Problem 0(2 points)
 
 **Input:** coordinates of a point (x, y)
