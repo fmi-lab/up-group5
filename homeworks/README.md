@@ -43,7 +43,7 @@ implementation using `for`.
     [Homework<number_of_homework>] <faculty_number> <name>
     ```
 
-    to
+    and send it to
 
     ```
     ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
