@@ -26,18 +26,25 @@ implementation using `for`.
 ### Instructions
 
 -   Write each problem in a separate **.cpp** file called:
+
     ```
     problem<number_of_problem_as_it_is_in_README>.cpp
     ```
+
 -   Archive all the problems to a **.zip** called:
+
     ```
     <your_faculty_number>_<your_name>_hw<number_of_homework>.zip
     ```
+
 -   Attach the archive to an email with subject
+
     ```
     [Homework<number_of_homework>] <faculty_number> <name>
     ```
+
     to
+
     ```
     ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
     ```
@@ -57,18 +64,11 @@ problem5
 ```
 
 I'll archive them in a **.zip** and call the archive
-```
-81202_monika-eftimova_hw0.zip
-```
+`81202_monika-eftimova_hw0.zip`
 
 Then I'll attach the archive to a new email with subject:
-```
-[Homework0] 81202 Monika Eftimova
-```
-and send it to 
-```
-ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
-```
+`[Homework0] 81202 Monika Eftimova` and send it to 
+`ip_assistants_2015+cs_5g@fmi.uni-sofia.bg`
 
 ## [Homework0](https://github.com/fmi-lab/up/tree/master/homeworks/hw0)
 
