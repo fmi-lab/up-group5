@@ -44,7 +44,7 @@
 If you used for-cycles in some of the problems above, now write them all with [while](http://www.tutorialspoint.com/cplusplus/cpp_while_loop.htm) (and vice versa .. if you used while -> now use for)
 
 ## Bonus Problem 6 (2.5 points)
-In the above problems whenever there is a condition(they are usually bolded) for the input use [do-while](http://www.tutorialspoint.com/cplusplus/cpp_do_while_loop.htm), to check if the input matches the given condition. 
+In the above problems whenever there is a condition(they are usually bolded) for the input use [do-while](http://www.tutorialspoint.com/cplusplus/cpp_do_while_loop.htm) to check if the input matches the given condition. 
 For example, if you want to check whether the integer n is positive you write:
 ```  
 int n;  
