@@ -79,7 +79,7 @@ Overall, we're going to give you 6 homeworks, each of them will have regular
 problems giving you 10 points if you manage to do them but each homework is
 going to have also 5 bonus points.
 
-You need 60 points for excellent mark but you can obtain 90 points. So, chances
+You need 60 points for excellent mark but you can obtain 90. So, chances
 are good that you'll manage to do well.
 
 Handling your homework after the deadline will automatically reduce the points 
@@ -87,4 +87,7 @@ you can get from it to half.
 
 The deadline is going to always be appended to the name of the homework.
 Example: `homework0-25102015`
+
+The deadline always marks the last day until midnight. So it means you can still
+send your homework during the day, in this case during 25.10.2015
 
