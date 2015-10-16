@@ -1,6 +1,3 @@
-# Homework with deadline 25/10/2015 including Sunday
-Write every problem in a different *.cpp file and send them in an archive with a name = Your name + Faculty number
-
 ## Problem 0(2 points)
 
 **Input:** coordinates of a point (x, y)
