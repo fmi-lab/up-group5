@@ -12,9 +12,9 @@
 
 **Input:** n (n is a **three-digit positive number**)
 
-**Output:** The number formed by reversing the digits of n (Don't just print the digits in reversed order)
+**Output:** A new number formed by reversing the digits of n (Don't just print the digits in reversed order but construct a new number)
 
-**Example:** Input: 357, Output: 753
+**Example:** Input: 357, Output: 753 || Input: 700, Output: 7
 
 ## Problem 2 (2 points)
 
