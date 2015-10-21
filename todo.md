@@ -1,0 +1,4 @@
+- tell about the ternary operator
+- get list of the students in our group
+- make file with points
+- remind students that they need to send the homework until sunday

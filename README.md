@@ -8,11 +8,15 @@ Introduction to Programming
 Lab Exercises
 -------------
 
+### [Exercise 2](https://github.com/fmi-lab/up/blob/master/exercises/exercise2)
+
+Presentation of statements: loops; for/while; interchangable loop
+statements; execution of several loop programs.
+
 ### [Exercise 1](https://github.com/fmi-lab/up/blob/master/exercises/exercise1)
 
-Presentation of different statements: conditions and loops; if/else;
-ternary operator (?); for/while; interchangable loop statements;
-execution of several conditional and loop programs.
+Presentation of statements: conditions; if/else; ternary operator (?);
+execution of several conditional programs.
 
 ### [Exercise 0](https://github.com/fmi-lab/up/blob/master/exercises/exercise0)
 

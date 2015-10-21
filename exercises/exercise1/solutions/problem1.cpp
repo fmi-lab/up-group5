@@ -1,5 +1,5 @@
 /* ======================================================
- *  Problem1
+ *  Problem 1
  * ------------------------------------------------------
  *
  * Input: coordinates of a point (x, y)
@@ -29,14 +29,17 @@ int main()
 
     cout << "The point is";
 
-    if ((x - center_x) * (x - center_x) + (y - center_y) * (y - center_y) > radius*radius)
+    if ((x - center_x) * (x - center_x) + 
+        (y - center_y) * (y - center_y) > 
+        radius * radius)
     {
         cout << "n't";
     }
 
-    cout << " ";
-    cout << "in the circle with center (" << center_x << "," << center_y << ") ";
-    cout << "and radius = " << radius << "." << endl;
+    cout << " in the circle with center ("
+         << center_x << "," << center_y << ") "
+         << "and radius = " << radius << "."
+         << endl;
 
     return 0;
 }
