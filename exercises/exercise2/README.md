@@ -43,14 +43,13 @@ f = (2n)!! = 2 * 4 * 6 * ... * 2n
 #### Problem 3
 ##### Description:
 
-Write a program that for a given `n >= 1` finds the sum of every 3rd integer in
-the range (1, n)
+Write a program that for a given `n >= 1` finds the sum:
 ```
-sum = 2 + 5 + 8 + ...
+sum = 1 - 1/2 + 1/3 - 1/4 + ... + (-1)^(n-1) * 1/n
 ```
 **Input:** `int n >= 1`
 
-**Output:** `sum (int)`
+**Output:** `sum (double)`
 
 ---
 
