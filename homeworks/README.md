@@ -12,7 +12,7 @@ of the problems.
 
 ### Example
 
-In [Homework0](https://github.com/fmi-lab/up/tree/master/homeworks/hw0#bonus-problem-5-25-points)
+In [Homework0](https://github.com/fmi-lab/up/tree/master/homeworks/homework0-25102015)
 there's a bonus problem that requires me to substitute `for` with `while`, it is
 `problem5`.
 
