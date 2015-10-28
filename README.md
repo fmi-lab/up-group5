@@ -1,12 +1,20 @@
 Introduction to Programming
 ===========================
 
-    ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
+    email: ip_assistants_2015+cs_5g@fmi.uni-sofia.bg
 
-<ip_assistants_2015+cs_5g@fmi.uni-sofia.bg>
+    URL: https://webchat.freenode.net/
+    Channels: #up
+
+* * * * *
 
 Lab Exercises
 -------------
+
+### [Exercise 3](https://github.com/fmi-lab/up/blob/master/exercises/exercise3)
+
+Dealing with more interesting problems with numbers: implementing
+euclid's algorithm for gcd, substituting digits, changing bases.
 
 ### [Exercise 2](https://github.com/fmi-lab/up/blob/master/exercises/exercise2)
 
@@ -31,8 +39,12 @@ execution of a couple of simple programs.
 2.  [Implicit type conversion rules in C++
     operators](http://stackoverflow.com/questions/5563000/implicit-type-conversion-rules-in-c-operators)
 
+* * * * *
+
 Resources
 ---------
+
+-   [CS Teaching Material Archive](https://www.cs.bu.edu/teaching/)
 
 ### Online courses
 

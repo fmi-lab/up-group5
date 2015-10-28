@@ -1,5 +1,10 @@
 ## Lab Exercises
 
+### [Exercise 3](https://github.com/fmi-lab/up/blob/master/exercises/exercise3)
+
+Dealing with more interesting problems with numbers: implementing euclid's algorithm for gcd, substituting digits, changing bases.
+
+
 ### [Exercise 2](https://github.com/fmi-lab/up/blob/master/exercises/exercise2)
 
 Presentation of statements: loops; for/while; interchangable loop statements; execution of several loop programs.
@@ -19,4 +24,6 @@ Introduction to the Integrated Development Environment a.k.a. IDE (e.g. Visual S
 
 1. [What does the C++ standard state the size of int, long type to be?](http://stackoverflow.com/questions/589575/what-does-the-c-standard-state-the-size-of-int-long-type-to-be)
 1. [Implicit type conversion rules in C++ operators](http://stackoverflow.com/questions/5563000/implicit-type-conversion-rules-in-c-operators)
+
+---
 
