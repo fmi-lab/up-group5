@@ -1,4 +1,3 @@
-- tell about the ternary operator
-- get list of the students in our group
-- make file with points
-- remind students that they need to send the homework until sunday
+- [ ] Tell about the ternary operator
+- [x] Get list of the students in our group
+- [x] Make file with points
