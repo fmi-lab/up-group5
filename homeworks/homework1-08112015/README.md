@@ -34,7 +34,7 @@ Write a program that prints all three-digit integers, where `a`,`b` and `c` are 
 #### Problem 3
 ##### Points: 3
 
-Write a program that prints all numbers in the range `[m,n]` which if the k-th right-to-left digit of a number is removed, the number gets smaller an integer times (If the second digit of 105 is removed it becomes 15, thus 7 times smaller and 7 is a whole number, so 105 is printed).
+Write a program that prints all numbers in the range `[m,n]` which if the k-th right-to-left digit of a number is removed, the number gets smaller an integer times. (If the second digit of 105 is removed it becomes 15, thus 7 times smaller than 105 and 7 is a whole number, so 105 is printed)
 
 ##### Examples
 ```c++
@@ -61,4 +61,12 @@ $ 434 545 2
 Write a program that checks if the Fibonacci numbers with sequential numbers in the range [1, 40] have the following property: a Fibonacci number is even if and only if its sequential number mod 3 equals 0.
 
 ---
+
+#### Problem 5 [BONUS]
+##### Points: 5
+
+Write a program that takes the integers `m`, `n`, `p` and `q` and finds all sequences of operations `(op1, op2, op3)` a subset of `+`, `-`, `*` and `/` so that when they are substituted in the expression `(((m op1 n) op2 p) op3 q)` the result is equal to a given number `a`.
+
+**Hint:** Use `enum` http://en.cppreference.com/w/cpp/language/enum
+
 
