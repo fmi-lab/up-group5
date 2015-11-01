@@ -78,3 +78,16 @@ system explained above if we think someone overdid in a
 reasonable way, if we like a particular solution or even 
 if someone managed to follow strictly given instructions.
 
+## Schedule
+
+|    | Scheduled  | Deadline   |
+|----|------------|------------|
+| H0 | 16.10.2015 | 25.10.2015 |
+| H1 | 30.10.2015 | 08.11.2015 |
+| E0 |        11.11.2015   | - |
+| H2 | 13.11.2015 | 22.11.2015 |
+| H3 | 28.11.2015 | 06.12.2015 |
+| E1 |        16.12.2015   | - |
+| H4 | 18.12.2015 | 03.01.2016 |
+| H5 | 08.01.2016 | 17.01.2016 |
+
