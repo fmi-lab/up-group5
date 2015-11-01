@@ -2,7 +2,7 @@
 
 ## Current Points
 
-|   #   | H0 | H1 | K0 | H2 | H3 | K1 | H4 | H5 | Final |
+|   #   | H0 | H1 | E0 | H2 | H3 | E1 | H4 | H5 | Final |
 |-------|----|----|----|----|----|----|----|----|-------|
 | 81298 |    |    |    |    |    |    |    |    |       |
 | 81382 |    |    |    |    |    |    |    |    |       |
@@ -26,19 +26,55 @@
 
 ## Conditions
 
-Overall, we're going to give you 6 homeworks, each of them will have regular
-problems giving you 10 points if you manage to do them but each homework is
-going to have also 5 bonus points.
+Overall, we're going to give you 6 homeworks and 2 exams
 
-You need 60 points for excellent mark but you can obtain 90. So, chances
-are good that you'll manage to do well.
+Each of the homeworks is going to have regular problems
+giving you 10 points if you manage to do them well.
+On top of that every homework is going to have 5 bonus
+points making it up to 15 points you could get out of
+each.
 
-Handling your homework after the deadline will automatically reduce the points 
-you can get from it to half.
+Sending your homework after the deadline is going to
+automatically affect the points you can get from it:
+typically reduce them to half, unless you have a serious
+excuse.
 
-The deadline is going to always be appended to the name of the homework.
+The deadline is going to always be appended to the name of 
+the homework.
 Example: `homework0-25102015`
 
-The deadline always marks the last day until midnight. So it means you can still
-send your homework during the day, in this case during 25.10.2015
+The deadline always marks the last day until midnight. So
+it means you can still send your homework during the day,
+in this case during `25.10.2015`
+
+Each of the exams is going to have regular problems
+giving you 15 points if you manage to do them well.
+On top of that every exam is going to have 10 bonus
+points making it up to 25 points you could get out of
+each.
+
+The maximum points you can get is 130 and the grades are
+distributed as follows:
+- [100, 140) : 6
+-  [80, 100) : 5
+-  [60, 80)  : 4 
+-  [40, 60)  : 3
+
+For every two unsent homeworks (exluding homework0) we are
+going to lower the grade by 1. So, it's very important to
+send your homework, it doesn't have to be perfect but at
+least put the effort to participate.
+
+If you don't come to one of the exam your final grade will
+be lowered by 1 but **if you don't come to both of the exams
+the best you could get is 3**.
+
+So, if you just participate and send your homework and do 
+the exams, you'll probably won't have a problem to get a
+very good to excellent mark.
+
+We are free to give bonus points outside the formulated
+system explained above if we think someone overdid in a
+reasonable way, if we like a particular solution or even 
+if someone managed to follow strictly given instructions.
 
