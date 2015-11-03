@@ -55,7 +55,7 @@ $ 28
 6 divisors: 1, 2, 4, 7, 14, 28
 Prime divisors: 2, 7
 Divisors with even sum of digits: 2, 4, 28
-Result: (2+4+7+28)/4 = *10.25*
+Result: (2+4+7+28)/4 = 10.25
 
 $ 12 
 4
