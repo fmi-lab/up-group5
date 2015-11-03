@@ -1,5 +1,9 @@
 ## Lab Exercises
 
+### [Exercise 4](https://github.com/fmi-lab/up/blob/master/exercises/exercise4)
+
+Solving problems with nested loops and at the end some arrays.
+
 ### [Exercise 3](https://github.com/fmi-lab/up/blob/master/exercises/exercise3)
 
 Dealing with more interesting problems with numbers: implementing euclid's algorithm for gcd, substituting digits, changing bases.
