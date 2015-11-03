@@ -2,7 +2,7 @@
 
 ---
 
-#### Problem 1
+#### Problem 0
 ##### Description
 
 Write a program which takes a positive integer "n" and then prints all the prime numbers in the range (1,n)
