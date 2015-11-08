@@ -35,7 +35,7 @@ Write a program that checks if the sum of digits of a given positive integer mod
 
 ```c++
 $ 453
-0
+1
 
 $ 23
 0
