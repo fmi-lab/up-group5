@@ -8,6 +8,7 @@
 Implement the Euclid's algorithm for greatest common divisor.
 
 _References:_
+- http://math.stackexchange.com/questions/422697/when-the-denominator-is-larger-than-the-numerator-why-does-the-modulo-equal-the
 - http://www.cut-the-knot.org/blue/Euclid.shtml
 
 ###### Examples
