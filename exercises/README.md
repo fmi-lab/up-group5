@@ -11,10 +11,11 @@ Dealing with more interesting problems with numbers: implementing euclid's algor
 #### References
 
 1. [Euclid's Algorithm](http://www.cut-the-knot.org/blue/Euclid.shtml)
-2. [Change a number from base 10
+2. [When the denominator is larger than the numerator, why does the modulo equal the numerator?](http://math.stackexchange.com/questions/422697/when-the-denominator-is-larger-than-the-numerator-why-does-the-modulo-equal-the)
+3. [Change a number from base 10
 to any other base](http://mathbits.com/MathBits/CompSci/Introduction/frombase10.htm)
-3. [Fraction/Decimal Conversion to Other Bases](http://mathforum.org/library/drmath/view/55744.html)
-4. [How to convert from base-10 (decimal) to any other base](http://www.searchmarked.com/math/how-to-convert-from-base-10-decimal-to-any-other-base.php)
+4. [Fraction/Decimal Conversion to Other Bases](http://mathforum.org/library/drmath/view/55744.html)
+5. [How to convert from base-10 (decimal) to any other base](http://www.searchmarked.com/math/how-to-convert-from-base-10-decimal-to-any-other-base.php)
 
 ### [Exercise 2](https://github.com/fmi-lab/up/blob/master/exercises/exercise2)
 
