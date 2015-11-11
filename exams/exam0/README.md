@@ -34,7 +34,7 @@ Write a program which takes as input numbers while the user enters three ascendi
 
 ```c++
 $ 1, 2, -1, 0, 4, 1, 5, 7
-1, 5 ,7
+-1, 0 ,4
 
 $ 10, 20, 20, 30, 35
 20, 30, 35
