@@ -1,11 +1,11 @@
 ### 11.11.2015
 
-Upload the .cpp files when you are ready here -> https://my.pcloud.com/#page=puplink&code=uXJZVHOIwIhrVQL3wwB3vQxKghySo4m7
+Upload !ZIP! with .cpp files when you are ready here -> https://my.pcloud.com/#page=puplink&code=uXJZVHOIwIhrVQL3wwB3vQxKghySo4m7
+
 ---
 
 #### Problem 0
-##### Points: 2
-##### Description
+##### Points: 3
 
 Write a program which takes as input coordinates (x,y) and checks if the point with these coordinates belongs
 to [this figure](https://gyazo.com/dee8c06f86bac440d606b55e4ca1457d). In case it does, print the boolean true. In any other -> false
@@ -26,8 +26,7 @@ true
 ---
 
 #### Problem 1
-##### Points: 4
-##### Description
+##### Points: 3
 
 Write a program which takes as input numbers while the user enters three ascending ones in a roll. When it stops print the three ascending numbers.
 
@@ -48,7 +47,6 @@ $ 5, 4, -5, -4, -2
 
 #### Problem 2
 ##### Points: 4
-##### Description
 
 Write a program which takes as input a positive integer n and prints all of its divisors which are with uneven sum of digits
 
@@ -107,7 +105,7 @@ $ 1000001
 #### Problem 4 [BONUS]
 ##### Points: 5
 
-Write a program that takes n (positive) as argument and finds the first n Hamming numbers (also known as Regular numbers): https://en.wikipedia.org/wiki/Regular_number
+Write a program that takes n (positive) as argument and computes π (pi) using the first n members of the Wallis product: https://en.wikipedia.org/wiki/Wallis_product
 
 ---
 
