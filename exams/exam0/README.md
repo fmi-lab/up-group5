@@ -53,10 +53,10 @@ Write a program which takes as input a positive integer n and prints all of its 
 ###### Examples
 ```c++
 $ 12
-1, 3
+1, 3, 12
 
 $ 30
-1, 3, 5, 10
+1, 3, 5, 10, 30
 
 $ 25
 1, 5, 25
