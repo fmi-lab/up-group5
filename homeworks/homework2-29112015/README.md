@@ -46,7 +46,31 @@ Write a program that for given sequences of a<sub>0</sub>, a<sub>1</sub>, ..., a
 #### Problem 5 [BONUS]
 ##### Points: 2.5
 
-loading...
+Write a program that takes as input n(1 < n <= 30) and then constructs a matrix(2D array) satisfying the following formula:
+|:---:|:-----:|:-----:|:-----:|:---------:|:-------:|
+|  0  |n*(n-1)|  ...  |  ...  |   ...     |k+p+m+s+t|
+|  1  |   0   |  ...  |  ...  |   ...     |   ...   |
+|  2  |  k+1  |   0   |  ...  |   ...     |   ...   |
+| ... |  k+2  | k+p+1 |   0   |k+p+m+s+t+1|   ...   |
+| ... |  ...  |  ...  | ...   |    0      |k+p+m+s+2|
+| k   |  k+p  | k+p+m |k+p+m+s|k+p+m+s+1  |    0	|
+##### Examples:
+Input: 5
+Output: 
+|:---:|:---:|:---:|:---:|:---:|
+|  0  |  20 |  19 |  17 |  14 |
+|  1  |  0  |  18 |  16 |  13 |
+|  2  |  5  |  0  |  15 |  12 |
+|  3  |  6  |  8  |  0  |  11 |
+|  4  |  7  |  9  |  10 |  0  |
+
+Input: 3
+Output: 
+|:---:|:---:|:---:|
+|  0  |  6  |  5  |
+|  1  |  0  |  4  |
+|  2  |  3  |  0  |
+
 
 ---
 
