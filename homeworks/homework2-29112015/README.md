@@ -46,36 +46,31 @@ Write a program that for given sequences of a<sub>0</sub>, a<sub>1</sub>, ..., a
 #### Problem 5 [BONUS]
 ##### Points: 2.5
 
-Write a program that takes as input n(1 < n <= 30) and then constructs a matrix(2D array) satisfying the following formula:
-|:---:|:-----:|:-----:|:-----:|:---------:|:-------:|
-|  0  |n*(n-1)|  ...  |  ...  |   ...     |k+p+m+s+t|
-|  1  |   0   |  ...  |  ...  |   ...     |   ...   |
-|  2  |  k+1  |   0   |  ...  |   ...     |   ...   |
-| ... |  k+2  | k+p+1 |   0   |k+p+m+s+t+1|   ...   |
-| ... |  ...  |  ...  | ...   |    0      |k+p+m+s+2|
-| k   |  k+p  | k+p+m |k+p+m+s|k+p+m+s+1  |    0	|
+Write a program that takes as input n(1 < n <= 30) and then constructs a matrix(2D array) satisfying the following [formula](https://gyazo.com/ab445dc488b95c81c684495994dc8273).
+
 ##### Examples:
+
 Input: 5
 Output: 
-|:---:|:---:|:---:|:---:|:---:|
-|  0  |  20 |  19 |  17 |  14 |
-|  1  |  0  |  18 |  16 |  13 |
-|  2  |  5  |  0  |  15 |  12 |
-|  3  |  6  |  8  |  0  |  11 |
-|  4  |  7  |  9  |  10 |  0  |
+[Matrix 5x5](https://gyazo.com/028ead6cc4dbe388a1d679fa51786e68)
 
 Input: 3
 Output: 
-|:---:|:---:|:---:|
-|  0  |  6  |  5  |
-|  1  |  0  |  4  |
-|  2  |  3  |  0  |
+[Matrix 3x3](https://gyazo.com/9a0c4c5391c540847fe5c6ca3f5507ab)
 
 
 ---
 
-#### Problem 5 [BONUS]
+#### Problem 6 [BONUS]
 ##### Points: 2.5
 
-loading...
+Write a program that for a given matrix(n x n) prints the elements below the secondary diagonal which are fibonacci numbers(<= 500). The printing of the numbers should be in ascending order.
 
+##### Examples:
+
+Input: n = 3 and [Matrix nxn](https://gyazo.com/87bc3d41dabd6dd43604d2cd74a2e16d)
+Output: 5, 8
+
+
+Input: n = 5 and [Matrix nxn](https://gyazo.com/8a70aa9fbb3846088c29161073775359)
+Output: 1, 5, 13, 34, 55
