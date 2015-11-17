@@ -51,10 +51,13 @@ Write a program that takes as input n(1 < n <= 30) and then constructs a matrix(
 ##### Examples:
 
 Input: 5
+
 Output: 
 [Matrix 5x5](https://gyazo.com/028ead6cc4dbe388a1d679fa51786e68)
 
+
 Input: 3
+
 Output: 
 [Matrix 3x3](https://gyazo.com/9a0c4c5391c540847fe5c6ca3f5507ab)
 
@@ -69,8 +72,10 @@ Write a program that for a given matrix(n x n) prints the elements below the sec
 ##### Examples:
 
 Input: n = 3 and [Matrix nxn](https://gyazo.com/87bc3d41dabd6dd43604d2cd74a2e16d)
+
 Output: 5, 8
 
 
 Input: n = 5 and [Matrix nxn](https://gyazo.com/8a70aa9fbb3846088c29161073775359)
+
 Output: 1, 5, 13, 34, 55

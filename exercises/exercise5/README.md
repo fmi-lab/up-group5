@@ -50,14 +50,15 @@ Write a program that takes as input a two-dimensional array(matrix) with maximum
 
 ###### Examples
 
-```
+Input: [4x4 matrix](https://gyazo.com/294aeae233831d015f4dc80ea524976e)
 
-$ [4x4 matrix](https://gyazo.com/294aeae233831d015f4dc80ea524976e)
-2, 123, 222, 7
+Output: 2, 123, 222, 7
 
-$ [5x5 matrix](https://gyazo.com/5b67654e000d308b2bc2d9aa4dabe11f)
-43, -12, 303, 213, 23
-```
+
+Input: [5x5 matrix](https://gyazo.com/5b67654e000d308b2bc2d9aa4dabe11f)
+
+Output: 43, -12, 303, 213, 23
+
 ---
 
 #### Problem 3
@@ -66,9 +67,8 @@ Write a program that takes as input a two-dimensional array(matrix) with maximum
 
 ###### Examples
 
-```c++
-$ [5x5 matrix](https://gyazo.com/e542e50b2608173bebdf3ae5f3d53f0d)
-[sorted](https://gyazo.com/555ae33604c58db0e718b2fb2ff3a209)
+Input: [5x5 matrix](https://gyazo.com/e542e50b2608173bebdf3ae5f3d53f0d)
 
-```
+Output: [sorted](https://gyazo.com/555ae33604c58db0e718b2fb2ff3a209)
+
 
