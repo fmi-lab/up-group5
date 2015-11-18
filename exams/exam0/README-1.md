@@ -1,4 +1,4 @@
-### 11.11.2015
+### 18.11.2015
 
 Upload !ZIP! with .cpp files when you are ready here -> https://my.pcloud.com/#page=puplink&code=uXJZVHOIwIhrVQL3wwB3vQxKghySo4m7
 
@@ -28,19 +28,19 @@ true
 #### Problem 1
 ##### Points: 3
 
-Write a program which takes as input numbers while the user enters three ascending ones in a roll. When it stops print the three ascending numbers.
+Write a program which takes as input numbers while the user enters four descending ones in a roll. When it stops print the four descending numbers.
 
 ###### Examples
 
 ```c++
-$ 1, 2, -1, 0, 4
--1, 0 ,4
+$ 1, 2, -1, 0, 4, 1, 0, -2
+4, 1, 0, -2
 
-$ 10, 20, 20, 30, 35
-20, 30, 35
+$ 10, 20, 20, 10, 5
+20, 20, 10, 5
 
-$ 5, 4, -5, -4, -2
--5, -4, -2
+$ 5, 4, -1, -2, -3, -100
+-1, -2, -3, -100
 ```
 
 ---
@@ -48,24 +48,23 @@ $ 5, 4, -5, -4, -2
 #### Problem 2
 ##### Points: 4
 
-Write a program which takes as input a positive integer n and prints all of its divisors which are with uneven sum of digits
+Write a program which takes as input a positive integer n and prints all of its divisors which are with even sum of digits
 
 ###### Examples
 ```c++
 $ 12
-1, 3, 12
+2, 4, 6
 
 $ 30
-1, 3, 5, 10, 30
+2, 6, 15
 
 $ 25
-1, 5, 25
+
 ```
 ---
 
 #### Problem 3
 ##### Points: 5
-##### Description
 
 Write a program which takes a positive integer n and prints the number of occurrences of each digit from 0 to 9 in it.
 
@@ -105,13 +104,15 @@ $ 1000001
 #### Problem 4 [BONUS]
 ##### Points: 5
 
-Write a program that takes n (positive) as argument and computes π (pi) using the first n members of the Wallis product: https://en.wikipedia.org/wiki/Wallis_product
+Write a program that takes n (positive) as argument and computes π (pi) using the first n members of the Gregory series: http://mathworld.wolfram.com/GregorySeries.html
 
 ---
 
 #### Problem 5 [BONUS]
 ##### Points: 5
 
-Write a program that finds all Mersenne prime numbers (https://en.wikipedia.org/wiki/Mersenne_prime) in the range [1; 65535]
+Every positive integer multiple of 2, 3 and 5 is called Hamming number (a.k.a. Regular number): https://en.wikipedia.org/wiki/Regular_number
+
+Write a program that finds the first `n` Hamming numbers, for a given `n`.
 
 ---
