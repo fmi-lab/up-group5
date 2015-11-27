@@ -68,12 +68,13 @@ On top of that every exam is going to have 10 bonus
 points making it up to 25 points you could get out of
 each.
 
-The maximum points you can get is 130 and the grades are
-distributed as follows:
-- [100, 140) : 6
--  [80, 100) : 5
--  [60, 80)  : 4 
--  [40, 60)  : 3
+The maximum of regular points you can get is 90 + 40 
+bonus points to fill in the gaps where necessary. The 
+total number of points corresponds to a grade as follows:
+- [80, 90] : 6
+- [70, 80) : 5
+- [50, 70) : 4 
+- [30, 50) : 3
 
 For every two unsent homeworks (exluding homework0) we are
 going to lower the grade by 1. So, it's very important to
