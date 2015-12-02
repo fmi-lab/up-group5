@@ -1,5 +1,9 @@
 ## Lab Exercises
 
+### [Exercise 6](https://github.com/fmi-lab/up/blob/master/exercises/exercise6)
+
+Some tasks with arrays. Emphasizing on pointers.
+
 ### [Exercise 5](https://github.com/fmi-lab/up/blob/master/exercises/exercise5)
 
 Taking the red pill.
