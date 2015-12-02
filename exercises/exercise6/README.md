@@ -15,11 +15,10 @@ Write a program which creates a function with an argument square matrix and chec
 
 Write a program which creates a function with arguments two integers and swaps them. After calling the function in main the arguments should be swapped there too.
 
-```
 
 ---
 
-*Now let us solve some of your homework from the lectured!*
+**Now let us solve some of your homework from the lecture!**
 
 
 
