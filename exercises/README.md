@@ -2,7 +2,7 @@
 
 ### [Exercise 7](https://github.com/fmi-lab/up/blob/master/exercises/exercise7)
 
-Preparation for important exam
+Preparation for the important exam
 
 ### [Exercise 6](https://github.com/fmi-lab/up/blob/master/exercises/exercise6)
 
