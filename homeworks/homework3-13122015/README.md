@@ -13,6 +13,20 @@ Write a program that finds the product of the given polynomials P<sub>n</sub>(x)
 
 Use arrays with size `n` and `m` for the coeficients of the polynomials and an array with size `n+m` for the product.
 
+##### Example
+
+You can think for the indices of the arrays as the power of the x of a given polynomial.
+
+```
+int p_n[5] = { 0, 5, 2, 1, 3 }, // -> 5*x + 2*x^2 + x^3 + 3*x^4, max: 4th power of x
+    q_n[3] = { 1, 2, 3 }, // -> 1 + 2*x + 3*x^2, max: 2nd power of x
+    product[7] = { 0 }; // max: 6th power of x
+
+// do the magic
+
+print(product); // { 0, 5, 12, 20, 11, 9, 9 } -> 5*x + 12*x^2 + 20*x^3 + 11*x^4 + 9*x^5 + 9*x^6
+```
+
 ---
 
 #### Problem 1
