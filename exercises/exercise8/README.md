@@ -9,10 +9,7 @@ Write a function which fills a matrix(NxN) with numbers starting from 1 in the [
 
 ###### Example
 
-```c++
 $ [Matrix 5x5](https://gyazo.com/88ff447d40bbbf0b8cdec3f72f89219a)
-
-```
 
 ---
 
@@ -22,14 +19,11 @@ Write a function which takes a matrix(NxM) filled with ones and zeros and return
 
 ###### Example
 
-```c++
 $ Input: [Matrix 5x4](https://gyazo.com/92743b90b92d90e32f95688de3d14f88)
 
 Return value: 4
 
-
 ---
-
 
 #### Problem 2
 
