@@ -1,5 +1,9 @@
 ## Lab Exercises
 
+### [Exercise 8](https://github.com/fmi-lab/up/blob/master/exercises/exercise8)
+
+Solving a couple more complex problems with pointers, arrays and functions and then intro to recursion and some simple tasks with it
+
 ### [Exercise 7](https://github.com/fmi-lab/up/blob/master/exercises/exercise7)
 
 Preparation for the important exam
