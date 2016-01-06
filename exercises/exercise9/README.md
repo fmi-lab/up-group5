@@ -23,13 +23,14 @@ Write a *recursive* function which compares two string(char arrays) lexicographi
 -> If the second is ">" -1
 
 ###### Example
-
+```c++
 $ ['a', 'b', 'd'] ['d' 'c']
 1
 $ ['a', 'e', 'g'] ['a', 'e', 'g']
 0
 $ ['f', 'q' 'z'] ['z', 'd' 'q']
 -1
+```
 ---
 
 #### Problem 2
@@ -65,5 +66,3 @@ $ Input: [-10, 20, 10, -200, 23, 7, 13]
 [Here](https://gyazo.com/d46300dbb3d8d22f5430254b16974a4a)
 
 ---
-
-```
