@@ -17,10 +17,10 @@ $ 15 80
 
 #### Problem 1
 
-Write a *recursive* function which compares two string(char arrays) lexicographically and returns:
--> If the first is ">" 1
--> If they are equal 0
--> If the second is ">" -1
+Write a *recursive* function which compares two string(char arrays) lexicographically and returns:  
+-> If the first is ">" 1  
+-> If they are equal 0  
+-> If the second is ">" -1  
 
 ###### Example
 ```c++
