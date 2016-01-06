@@ -1,5 +1,9 @@
 ## Lab Exercises
 
+### [Exercise 9](https://github.com/fmi-lab/up/blob/master/exercises/exercise9)
+
+More recursion and sorting.
+
 ### [Exercise 8](https://github.com/fmi-lab/up/blob/master/exercises/exercise8)
 
 Solving a couple more complex problems with pointers, arrays and functions and then intro to recursion and some simple tasks with it
