@@ -11,6 +11,10 @@ Introduction to Programming
 Lab Exercises
 -------------
 
+### [Exercise 10](https://github.com/fmi-lab/up/blob/master/exercises/exercise10)
+
+Even more recursion and backtracking.
+
 ### [Exercise 9](https://github.com/fmi-lab/up/blob/master/exercises/exercise9)
 
 More recursion and sorting.
