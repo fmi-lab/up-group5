@@ -1,4 +1,4 @@
-### 13.01.2015
+### 13.01.201~~5~~6
 
 ---
 
@@ -47,6 +47,22 @@ $ 3
 
 A maze is presented as a boolean square matrix A<sub>8x8</sub>. The cell<sub>i,j</sub> is considered passable if the element a<sub>ij</sub> is true, otherwise it's unpassable. Write a program that checks for the existence of a path starting from top left and ending bottom right of the maze.
 
+##### Example
+```c++
+bool maze[8][8]= { 
+    1, 0, 1, 1, 1, 1, 1, 1,
+    1, 0, 1, 0, 0, 0, 0, 1,
+    1, 1, 1, 0, 1, 1, 0, 1,
+    0, 0, 0, 1, 1, 1, 0, 1,
+    1, 1, 1, 1, 1, 1, 0, 1,
+    1, 1, 1, 1, 1, 0, 0, 1,
+    1, 1, 1, 1, 1, 0, 1, 1,
+    1, 1, 1, 1, 1, 0, 1, 1 
+};
+
+true
+```
+
 ---
 
 #### Problem 2 
@@ -71,11 +87,11 @@ $ ((21-16)*4)
 
 ---
 
-#### Problem 3 
 
-Towers of Hanoi: http://hanoitower.mkolar.org/HThistory.html
-Game: http://hanoitower.mkolar.org/Hanoi.html
 
-Write a program that transfers k disks from one peg to another using a helper peg.
 
----
+
+
+
+
+
