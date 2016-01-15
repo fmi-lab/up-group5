@@ -1,5 +1,18 @@
 ### 13.01.201~~5~~6
 
+#### Problem 4294967295
+
+Write a function which takes an integer number n and returns the nth [Tribonacci Number](https://en.wikipedia.org/wiki/Generalizations_of_Fibonacci_numbers#Tribonacci_numbers)
+
+###### Example
+```c++
+$ 7
+13
+
+$10
+81
+```
+
 ---
 
 #### Problem 0
