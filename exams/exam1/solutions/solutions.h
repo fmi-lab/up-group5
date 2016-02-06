@@ -1,4 +1,4 @@
-// Soltuions to Exam1 in Introduction to Programming - SU / Group 5
+// Solutions to Exam1 in Introduction to Programming - SU / Group 5
 #include <iostream>
 #include <vector>
 
